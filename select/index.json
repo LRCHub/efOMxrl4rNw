@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Don't Even Try It",
+  "base_artist": "Funky DL",
+  "createdAt": "2025-12-25T10:28:17.625740Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/01_Don't_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/02_Don't_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "DJ Jazzy Jeff",
+      "has_synced": false,
+      "path": "select/03_Don't_Even_Try_It_DJ_Jazzy_Jeff.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/04_Don't_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/05_Don't_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Don’t Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/06_Don’t_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don't Even Try It Ft. Funky DL",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/07_Don't_Even_Try_It_Ft._Funky_DL_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Funky DL-Don't Even Try It",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/08_Funky_DL-Don't_Even_Try_It_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Don't Even try it (ft. Funky DL)",
+      "artist": "Nujabes",
+      "has_synced": true,
+      "path": "select/09_Don't_Even_try_it_(ft._Funky_DL)_Nujabes.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "DJ Jazzy Jeff & The Fresh Prince",
+      "has_synced": false,
+      "path": "select/10_Don't_Even_Try_It_DJ_Jazzy_Jeff_&_The_Fresh_Prince.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "D.J. Jazzy Jeff & Fresh Prince",
+      "has_synced": false,
+      "path": "select/11_Don't_Even_Try_It_D.J._Jazzy_Jeff_&_Fresh_Prince.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "DJ Jazzy Jeff & the Fresh Prince",
+      "has_synced": false,
+      "path": "select/12_Don't_Even_Try_It_DJ_Jazzy_Jeff_&_the_Fresh_Prince.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Jazzy Jeff, DJ & the Fresh Prince",
+      "has_synced": false,
+      "path": "select/13_Don't_Even_Try_It_Jazzy_Jeff,_DJ_&_the_Fresh_Prince.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": true,
+      "path": "select/14_Don't_Even_Try_It_Funky_DL.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't Even Try It",
+      "artist": "Funky DL",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_Even_Try_It_Funky_DL.txt"
+    }
+  ]
+}
